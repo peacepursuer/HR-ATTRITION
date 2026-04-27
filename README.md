@@ -213,6 +213,9 @@ Tools Used
 •	Power Query
 •	DAX
 •	Data Cleaning Techniques
+
 Prepared By
+
 Hammed Akingbade
+
 Data Analyst | Power BI Developer
