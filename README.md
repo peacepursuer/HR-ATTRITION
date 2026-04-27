@@ -1,4 +1,5 @@
 Executive Summary
+
 Employee attrition is one of the most important workforce challenges for organizations because it directly impacts productivity, recruitment costs, morale, and long-term growth. This report analyses employee demographics, turnover trends, and wellness indicators using an interactive Power BI dashboard.
 The dataset contains 1,470 employees, of which 84% are active and 16% are inactive. The findings reveal that attrition is strongly influenced by factors such as low performance, overtime, poor work-life balance, low satisfaction levels, and limited career growth opportunities.
 The purpose of this report is to explain the insights discovered, identify the major causes of attrition, and recommend practical actions that can help management improve employee retention and workforce well-being.
