@@ -5,7 +5,7 @@ The dataset contains 1,470 employees, of which 84% are active and 16% are inacti
 The purpose of this report is to explain the insights discovered, identify the major causes of attrition, and recommend practical actions that can help management improve employee retention and workforce well-being.
 ________________________________________
 1. Introduction
-2. 
+
 Human Resources departments rely on data analytics to understand employee behaviour, improve decision-making, and create healthier workplaces. Attrition analysis helps organizations answer critical questions such as:
 •	Why are employees leaving?
 •	Which departments are most affected?
@@ -19,7 +19,7 @@ This project uses Power BI dashboards to transform HR data into actionable insig
 4.	Employee Wellness
 ________________________________________
 2. Objectives of the Analysis
-3. 
+ 
 The key objectives of this analysis were to:
 
 •	Measure the overall attrition rate
@@ -30,7 +30,7 @@ The key objectives of this analysis were to:
 •	Provide recommendations to improve retention and engagement
 ________________________________________
 3. Data Preparation Process
-4. 
+
 Before visualization, the dataset was cleaned and transformed to ensure accurate reporting.
 Steps Performed:
 
@@ -43,7 +43,7 @@ Steps Performed:
 Clean data is essential because poor-quality data can lead to misleading insights and wrong business decisions.
 ________________________________________
 4. Dashboard Analysis & Findings
-5. 
+
 4.1 Employee Demographics Dashboard
  
 This dashboard provides a high-level overview of workforce composition and inactive employee patterns.
